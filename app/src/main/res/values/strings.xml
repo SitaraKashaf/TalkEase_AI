@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Talkease</string>
+
+
+    <string name="voice_trans">Voice Translator</string>
+    <string name="voice">Voice</string>
+
+    <string name="voiceInfo">1. Record your voice\n\n2. Choose language\n\n3. Click on translate button</string>
+    <string name="textInfo">1. Enter the text\n\n2. Choose language\n\n3. Click on translate button</string>
+
+    <string name="language">Language Select</string>
+    <string name="text_tran">Text Translator</string>
+    <string name="text">Text</string>
+
+    <string name="translate">Translator</string>
+    <string name="rationale_title">Permission required</string>
+
+    <string name="rationale_message">we need permission for read-write <b>storage</b> and your <b>camera</b></string>
+    <string name="rationale_message_voice">we need permission for record your voice</string>
+
+
+        // Login
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or">Or</string>
+    <string name="dont_have_account">Don´t have an account?</string>
+    <string name="incorrect_email_password">Incorrect email or password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="invalid_email">Invalid email</string>
+    // Sign up
+    <string name="repeat_password">Repeat password</string>
+    <string name="error_sign_up">Error on Sign Up</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    // Forgot password
+    <string name="reset_password">Reset password</string>
+    <string name="recovery_email_sent">Recovery email sent</string>
+    <string name="an_error_has_occurred">An error has occurred</string>
+    // Main
+    <string name="sign_out">Sign out</string>
+
+</resources>

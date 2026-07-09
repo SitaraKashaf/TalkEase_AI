@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "110810761330",
+    "project_id": "fir-authentication-b5635",
+    "storage_bucket": "fir-authentication-b5635.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110810761330:android:fb1b3202c7e3c212309aeb",
+        "android_client_info": {
+          "package_name": "com.texttranslate.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110810761330-8t3kli52hf4as6f109qbn7t8oe5puehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgB4o7U_Fs4trkUkN_J8p_VAfErb6BM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110810761330-8t3kli52hf4as6f109qbn7t8oe5puehj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110810761330:android:f09e83211347d4b7309aeb",
+        "android_client_info": {
+          "package_name": "com.translator.talkease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110810761330-8t3kli52hf4as6f109qbn7t8oe5puehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgB4o7U_Fs4trkUkN_J8p_VAfErb6BM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110810761330-8t3kli52hf4as6f109qbn7t8oe5puehj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lib_sb_stroke_width_normal_view">1px</dimen>
+    <dimen name="lib_sb_stroke_width_checked_view">1px</dimen>
+    <dimen name="lib_sb_stroke_width_thumb_view">1px</dimen>
+</resources>

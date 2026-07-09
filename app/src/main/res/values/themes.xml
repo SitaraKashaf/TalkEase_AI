@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">#FFC107</item>
+    </style>
+
+    <!-- ✅ Optimized Splash Theme -->
+    <style name="Theme.App.Splash" parent="Theme.SplashScreen">
+        <!-- Background color for the screen -->
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        
+        <!-- Center icon: Using the foreground vector for crispness -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        
+        <!-- Icon background: Using your brand color to make the logo stand out -->
+        <item name="windowSplashScreenIconBackgroundColor">@color/colorPrimary</item>
+
+        <!-- Post-splash theme -->
+        <item name="postSplashScreenTheme">@style/AppTheme</item>
+
+        <!-- Fallback for older Android versions -->
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
